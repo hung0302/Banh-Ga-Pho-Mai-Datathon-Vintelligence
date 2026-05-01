@@ -319,6 +319,9 @@ Jupyter Notebook
 Project được thực hiện bởi team **Bánh Gà Phô Mai**.
 
 ```text
-National Economics University - NEU
+Hoàng Việt Hưng
+Ninh Thị Minh Thuỷ
+Bùi Duy Tiến
+Lê Phương Khanh
 Datathon / Vintelligence Project
 ```
